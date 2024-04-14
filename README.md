@@ -23,7 +23,7 @@ This project was mainly for me to try out a cool library I found within standard
 2. Navigate to the project directory:
 
     ```bash
-    cd pocket-cmd-networking
+    cd pocket-cmd-networking-app
     ```
 
 3. Install the required dependencies:
