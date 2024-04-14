@@ -17,7 +17,7 @@ This project was mainly for me to try out a cool library I found within standard
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/pocket-cmd-networking.git
+    git clone https://github.com/Sampise/Pocket-CMD-Networking-App.git
     ```
 
 2. Navigate to the project directory:
