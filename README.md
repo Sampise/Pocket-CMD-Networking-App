@@ -37,7 +37,7 @@ This project was mainly for me to try out a cool library I found within standard
 1. Run the script:
 
     ```bash
-    python networking_app.py
+    python main.py
     ```
 
 2. Follow the on-screen menu to choose an action:
